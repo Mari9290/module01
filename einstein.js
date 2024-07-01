@@ -1,3 +1,5 @@
+'use strict';
+
 const myWeight = 58;
 const speedLight = 3e8;
 
